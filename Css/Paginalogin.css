@@ -1,28 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+
+* {
+    font-family: "Verdana", sans-serif;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    letter-spacing: 0px;
+    box-sizing: border-box;
+    background-position: center;
+    
+    
+    scroll-behavior: smooth;
+    margin: 0;
+    color: #fff;
+}
 .container{
     display: flex;
     flex-direction: column;
     max-width: 350px;
-    
+    min-height: 400px;
+    align-items: center;
     margin: auto;
-    
-    background-color: rgb(255, 255, 255);
+    margin-top: 300px;
+    background-color: rgb(54, 54, 54);
     border-radius: 30px;
     
     border: 2px solid black;
     align-items: center;
     justify-content: center;
+    opacity: 0.9;
     
     
 }
 input, .btn{
     border: none;
-    background-color: bisque;
-    box-shadow: 1px 1px 5px black;
+    background-color: rgb(14, 167, 255);
+    box-shadow: 0px 5px 10px black;
     border-radius: 5px;
     margin: auto;
     
     
-    opacity: 0.9;
+    opacity: 1;
     
 
     
@@ -30,8 +50,10 @@ input, .btn{
 .formulario{
     display: flex;
     justify-content: center;
-    align-items: center;
+    
     flex-direction: column;
+    opacity: 1;
+
 }
 
 .btn{
@@ -39,11 +61,70 @@ input, .btn{
     
 }
 body{
-    background-color: lightslategray;
-    background-image: url('Biblioteca.jpg');
+    background-color: #fff;
+    background-image: url('login_page_biblioteca_senai_background_fixed.png');
     background-size: cover;
+    margin: 2rem;
 }
-.login{
+
+a{
+    color: rgb(255, 255, 255);
+}
+input:hover, .btn:hover, input:focus, .btn:focus{
+    transform: scale(1.2);
+    box-shadow: 0px 5px 10px rgb(0, 50, 126);
+}
+label{
+    color: rgb(255, 255, 255);
+    align-self: center;
+    opacity: 1 solid;
+}
+h1{
+    font-family: "Oswald";
+    gap: 200px;
+    font-size:100px;
+    justify-content: center;
+    color: black;
+    opacity: 1;
+    margin-top: 500px;
+    
+  }
+  .Texto{
+    display: flex;
+    justify-content: center;
+    color: black;
+  }
+  .conteudo {
+    width: 450px;
+}
+.containerCards{
+    display: flex;
+}
+.card{
+    border-radius: 5px;
+    margin-left: 10px;
+    height: 200px;
+    background-color: rgb(21, 108, 221);
+    
+    flex: 1;
+    transition: .3 all ease;
+}
+.TextParagCard{
+    visibility: hidden;
+}
+.card:hover{
+    flex: 2;
+    background-color: rgb(19, 64, 122);
+    color: black;
+    transition: 0.4s all ease;
     
 }
+
+.card:hover p{
+    visibility: visible ;
+    color: white;
+}
+ 
+
+
 
