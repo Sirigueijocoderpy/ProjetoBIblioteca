@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+    
+    margin: auto;
+    
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    
+    border: 2px solid black;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+input, .btn{
+    border: none;
+    background-color: bisque;
+    box-shadow: 1px 1px 5px black;
+    border-radius: 5px;
+    margin: auto;
+    
+    
+    opacity: 0.9;
+    
+
+    
+}
+.formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn{
+    align-self: center;
+    
+}
+body{
+    background-color: lightslategray;
+    background-image: url('download.jpg');
+    background-size: cover;
+}
+.login{
+    
+}
+
