@@ -363,5 +363,8 @@ header{
     font-size: 17px; /* texto menor */
     height: 30px; /* altura opcional para padronizar */
 }
+.container{
+    margin-top: 7.5%;
+}
     
  
