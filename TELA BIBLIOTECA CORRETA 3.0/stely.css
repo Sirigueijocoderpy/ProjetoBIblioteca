@@ -744,6 +744,517 @@ header{
         margin-top: 5px;
     }
 
+@media (min-width:0px ) and (max-width: 480px) {
+    .container{
+        margin-top: 70px;
+        width: 300px;
+        height: 450px;
+    }
+    .icon{
+        right: 20px;
+    }
+    .icone{
+        right: 20px;
+    }
+    .ico{
+        right: 20px;
+    }
+    .Envie{
+        width: 190px;
+        height: 30px;
+        font-size: medium;
+    }
+
+    .insta i{
+        margin-top: 610px;
+        color: white;  
+        right: 30px; 
+    }
+    .twt i{
+        margin-top: 610px;
+        color: white;
+        right: 100px;
+    }
+    .icones i {
+        margin-top: 610px;
+        color: white;
+        right: 170px;
+    }
+    .yt i {
+        margin-top: 610px;
+        color: white;
+        right: 240px;
+    }
+    .link i {
+        margin-top: 610px;
+        color: white;
+        right: 310px;
+    }
+    .img img{
+        top: 60px;
+        width: 190px;
+        height: 45px;
+        left: 100px;
+
+        
+    }
+    .header{
+        padding-top: 0px;
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center; 
+        font-weight: 40;
+        font-style: normal;
+    }
+    header h1{
+        
+        font-size:xx-large;
+    }
+    .icone input {
+        width: 210px;
+        color: black;
+        font-size: 18px; 
+        height: 19px; 
+    }
+    .icon input {
+        width: 210px;
+        color: black;
+        font-size: 18px; 
+        height: 19px; 
+    }
+    .ico input{
+        width: 210px;
+        color: black;
+        font-size: 18px; 
+        height: 19px; 
+    }
+    
+ }
+ @media (min-width:481px ) and (max-width: 767px)  {
+    .container{
+        margin-top: 100px;
+        width: 355px;
+        height: 500px;
+    }
+    .tipo{
+        width: 1cm;
+        
+    }
+    .icon{
+        right: 20px;
+    }
+    .icone{
+        right: 20px;
+    }
+    .ico{
+        right: 20px;
+    }
+    .Envie{
+        
+        width: 290px;
+        height: 30px;
+        font-size: larger;
+    }
+    .insta i{
+        margin-top: 700px;
+        color: white;  
+        right: 30px; 
+    }
+    .twt i{
+        margin-top: 700px;
+        color: white;
+        right: 120px;
+    }
+    .icones i {
+        margin-top: 700px;
+        color: white;
+        right: 210px;
+    }
+    .yt i {
+        margin-top: 700px;
+        color: white;
+        right: 300px;
+    }
+    .link i {
+        margin-top: 700px;
+        color: white;
+        right: 400px;
+    }
+    .img img{
+        top: 80px;
+        width: 200px;
+        height: 45px;
+        right: 110px;
+        left: 160px;
+    }
+    
+    .img{
+        margin-top: 0px;
+        width: 1px;
+        height: 3px;
+    }
+    .header{
+        padding-top: 0px;
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center; 
+        font-weight: 40;
+        font-style: normal;
+    }
+    header h1{
+        
+        font-size:xx-large;
+    }
+    .icone input {
+        width: 250px;
+        color: black;
+        font-size: 18px; 
+        height: 30px; 
+    }
+    .icon input {
+        width: 250px;
+        color: black;
+        font-size: 18px; 
+        height: 30px; 
+    }
+    .ico input{
+        width: 250px;
+        color: black;
+        font-size: 18px; 
+        height: 30px; 
+    }
+
+ }
+ @media (min-width:768px ) and (max-width: 950px)  {
+    .container{
+        margin-top: 200px;
+        width: 605px;
+        height: 520px;
+    }
+    .icon{
+        right: 20px;
+    }
+    .icone{
+        right: 20px;
+    }
+    .ico{
+        right: 20px;
+    }
+    .Envie{
+        
+        width: 390px;
+        height: 35px;
+        font-size: x-large;
+        
+    }
+    .insta i{
+        margin-top: 890px;
+        color: white;  
+        right: 50px; 
+        font-size: 70px;
+    }
+    .twt i{
+        margin-top: 890px;
+        color: rgb(255, 255, 255);
+        right: 180px;
+        font-size: 70px;
+    }
+    .icones i {
+        margin-top: 890px;
+        color: white;
+        right: auto;
+        left: auto;
+        font-size: 70px;
+    }
+    .yt i {
+        margin-top: 890px;
+        color: rgb(255, 255, 255);
+        right: 470px;
+        font-size: 70px;
+    }
+    .link i {
+        margin-top: 880px;
+        color: rgb(255, 255, 255);
+        right: 610px;
+        font-size: 70px;
+    }
+    .img img{
+        top: 120px;
+        width: 300px;
+        height: 70px;
+        left: 230px;
+
+    }
+    
+    .img{
+        margin-top: 0px;
+        width: 1px;
+        height: 3px;
+    }
+    .header{
+        padding-top: 0px;
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center; 
+        font-weight: 40;
+        font-style: normal;
+    }
+    header h1{
+        font-size:xx-large;
+    }
+    .icone input {
+        width: 500px;
+        color: black;
+        font-size: 20px; 
+        height: 35px; 
+    }
+    .icon input {
+        width: 500px;
+        color: black;
+        font-size: 20px; 
+        height: 30px; 
+    }
+    .ico input{
+        width: 500px;
+        color: black;
+        font-size: 20px; 
+        height: 30px; 
+    }
+
+ }
+ @media (min-width:951px )   {
+    header{
+        padding-top: 0px;
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;  
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        background-color: #333333;
+          
+    }
+    .container{
+        margin-top: 20px;
+        padding-top: 5px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 500px;
+        height: 495px;
+        background-color: #ffffff;
+        /* opacity: 0.7; */
+        color: #333333;
+        border-radius: 20px;
+        border: 2px solid #cccccc;
+        text-align: center;
+        box-shadow: 2px 2px 20px white;
+     
+      
+    }
+    
+    
+    .tipo{
+        color:  rgb(99, 0, 0);;
+        width: 300px;
+        height: 25px;
+        background-color: white;
+        border-radius: 6px;
+        border: 3px solid  rgb(99, 0, 0);
+        
+    }
+    .tipo:hover{
+        opacity: 2.0; 
+    }
+    
+    .Envie{
+        background-color: #a20e26;
+        color: aliceblue;
+        border-radius: 5px;
+        border: 1px solid rgb(0, 0, 0);
+        transition: transform 0.3s ease;
+        width: 370px;
+        height: 30px;
+        font-size: larger;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-image: url(cha);
+    }
+    
+    .Envie:hover {
+        
+        cursor:pointer;
+        transform: scale(1.1); /* Aumenta o tamanho do botão */
+        z-index: 10 ;
+        box-shadow: 2px 2px 6px rgb(139, 0, 0)
+    }
+    .Envie:active {
+        transform: scale(1.2); /* Aumenta o tamanho do botão */
+          z-index: 10;
+    }
+    .icon {
+        position: relative;
+        margin-bottom: 3px ;
+    }
+    
+    .icon i {
+        position: absolute;
+        left: 40px;
+        top: 40%;
+        transform: translateY(-10%);
+        color: #c8102e;
+        font-size: 20px; /* ícone menor */
+    }
+      
+    .icon input {
+        width: 390px;
+        padding: 8px 8px 8px 32px; /* padding reduzido */
+        border: 1px solid #ccc;
+        border-radius: 6px; /* cantos levemente mais retos */
+        font-size: 17px; /* texto menor */
+        height: 30px; /* altura opcional para padronizar */
+    }
+    .icone { /* esse esta para o icone do cadeado individual*/
+        position: relative;
+        margin-bottom: 3px ;
+    }
+    
+    .icone i {/* esse esta para o icone do cadeado individual*/
+        position: absolute;
+        left: 40px;
+        top: 17%;
+        transform: translateY(-10%);
+        color: #c8102e;
+        font-size: 20px; /* ícone menor */
+    }
+    
+    .icone input {/* esse esta para o icone do cadeado individual*/
+        width: 390px;
+        padding: 8px 8px 8px 32px; /* padding reduzido */
+        border: 1px solid #ccc;
+        border-radius: 6px; /* cantos levemente mais retos */
+        font-size: 17px; /* texto menor */
+        height: 30px; /* altura opcional para padronizar */
+    }
+    
+    .ico {/* esse esta para o icone do celular individual*/
+        position: relative;
+        margin-bottom: 3px ;
+    }
+    
+    .ico i {/* esse esta para o icone do celular individual*/
+        position: absolute;
+        left: 40px;
+        top: 34%;
+        transform: translateY(-10%);
+        color: #c8102e;
+        font-size: 20px; /* ícone menor */
+    }
+    
+    .ico input {/* esse esta para o icone do celular individual*/
+        width: 390px;
+        padding: 8px 8px 8px 32px; /* padding reduzido */
+        border: 1px solid #ccc;
+        border-radius: 6px; /* cantos levemente mais retos */
+        font-size: 17px; /* texto menor */
+        height: 30px; /* altura opcional para padronizar */
+    }
+    
+    .icones {/* esse esta para o icone do celular individual*/
+        position: relative;
+        margin-bottom: 0px ;
+    }
+    
+    .icones i {/* esse esta para o icone do celular individual*/
+        position: absolute;
+        right: 30px;
+        top: 10%;
+        transform: translateY(-10%);
+        color: #c8102e;
+        font-size: 20px; /* ícone menor */
+        font-size: 40px;
+        margin-top: 5px;
+    }
+    
+    .insta {/* esse esta para o icone do celular individual*/
+        position: relative;
+        margin-bottom: 0px ;
+    }
+    
+    .insta i {/* esse esta para o icone do celular individual*/
+        position: absolute;
+        right: 100px;
+        top: 10%;
+        transform: translateY(-10%);
+        color: #c8102e;
+        font-size: 20px; /* ícone menor */
+        font-size: 40px;
+        margin-top: 5px;
+    }
+    .yt {/* esse esta para o icone do celular individual*/
+        position: relative;
+        margin-bottom: 0px ;
+    }
+    
+    .yt i {/* esse esta para o icone do celular individual*/
+        position: absolute;
+        right: 170px;
+        top: 10%;
+        transform: translateY(-10%);
+        color: #c8102e;
+        font-size: 20px; /* ícone menor */
+        font-size: 40px;
+        margin-top: 5px;
+    }
+    .img img{
+        position: relative;
+        display: flex;
+        justify-content: flex-start;
+        top: 10px;
+        width: 150px;
+        height: 30px;
+        left: 78px;
+    }
+    
+    .img{
+        margin-top: 0px;
+        width: 1px;
+        height: 3px;
+    }
+    .twt {/* esse esta para o icone do celular individual*/
+        position: relative;
+        margin-bottom: 0px ;
+    }
+    
+    .twt i {/* esse esta para o icone do celular individual*/
+        position: absolute;
+        right: 240px;
+        top: 10%;
+        transform: translateY(-10%);
+        color: #c8102e;
+        font-size: 20px; /* ícone menor */
+        font-size: 40px;
+        margin-top: 5px;
+    }
+    .link {/* esse esta para o icone do celular individual*/
+        position: relative;
+        margin-bottom: 0px ;
+    }
+    
+    .link i {/* esse esta para o icone do celular individual*/
+        position: absolute;
+        padding-top: -3px;
+        right: 310px;
+        top: 10%;
+        transform: translateY(-10%);
+        color: #c8102e;
+        font-size: 20px; /* ícone menor */
+        font-size: 40px;
+        margin-top: 5px;
+    }
+
+ }
+
+ 
+
  }
 
  
