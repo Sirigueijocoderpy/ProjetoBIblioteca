@@ -348,6 +348,16 @@ header{
         font-size: 18px; 
         height: 30px; 
     }
+    img, .img{
+        position: absolute;
+        max-width: 155px;
+        left: 10px;
+        top: -35px;
+    }
+    th, td{
+        max-width: 10px;
+        font-size: 7px;
+    }
     
  }
 
