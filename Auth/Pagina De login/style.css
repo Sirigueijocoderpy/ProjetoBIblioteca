@@ -375,5 +375,23 @@ header{
 a{
     color: #a20e26;
 }
+@media (max-width: 768px){
+    .container{
+        min-width: 50px;
+        margin-top: 50%;
+    }
+    .tipo, .logar{
+        margin-left: 15px;
+    }
+    .iconesss{
+        margin-left: 20px;
+    }
+    .Envie{
+        margin-right: 5px;
+        margin-left: 5px;
+
+    }
+    
+}
     
  
